@@ -2,8 +2,8 @@
 
 **Md Abrar Mohiuddin · BITS ID 2026ak05323 · M.Tech (AIML), WILP**
 
-- **GitHub repository:** <GITHUB_REPO_URL>
-- **Live Streamlit app:** <STREAMLIT_APP_URL>
+- **GitHub repository:** https://github.com/abrar-mohiuddin/ml-assignment2-drybean
+- **Live Streamlit app:** https://ml-assignment2-drybean-euwzneri6tujadll7ravss.streamlit.app
 
 ---
 
@@ -53,7 +53,7 @@ Precision, Recall and F1 are reported as **macro** averages and MCC is included:
 
 ## c. GitHub repository link
 
-**<GITHUB_REPO_URL>**
+**https://github.com/abrar-mohiuddin/ml-assignment2-drybean**
 
 ```
 ml-assignment2-drybean/
