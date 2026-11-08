@@ -1,0 +1,57 @@
+{
+  "dataset": "UCI Dry Bean Dataset (id 602)",
+  "features": [
+    "Area",
+    "Perimeter",
+    "MajorAxisLength",
+    "MinorAxisLength",
+    "AspectRation",
+    "Eccentricity",
+    "ConvexArea",
+    "EquivDiameter",
+    "Extent",
+    "Solidity",
+    "roundness",
+    "Compactness",
+    "ShapeFactor1",
+    "ShapeFactor2",
+    "ShapeFactor3",
+    "ShapeFactor4"
+  ],
+  "target": "Class",
+  "classes": [
+    "BARBUNYA",
+    "BOMBAY",
+    "CALI",
+    "DERMASON",
+    "HOROZ",
+    "SEKER",
+    "SIRA"
+  ],
+  "n_train": 10834,
+  "n_test": 2709,
+  "random_state": 2026,
+  "best_params": {
+    "Logistic Regression": {
+      "C": 1.0
+    },
+    "Decision Tree": {
+      "max_depth": 10,
+      "min_samples_leaf": 10
+    },
+    "KNN": {
+      "n_neighbors": 9,
+      "weights": "distance"
+    },
+    "Naive Bayes": {
+      "var_smoothing": 1e-09
+    },
+    "Support Vector Machine": {
+      "C": 10.0,
+      "gamma": 0.1
+    }
+  },
+  "sklearn_version": "1.5.0",
+  "numpy_version": "2.4.6",
+  "pandas_version": "2.2.2"
+}
